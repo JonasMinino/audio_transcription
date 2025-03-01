@@ -1,0 +1,13 @@
+openai
+botocore
+boto3
+gradio
+gtts
+langdetect 
+pydub
+torch --index-url https://download.pytorch.org/whl/cu118
+git+https://github.com/openai/whisper.git
+audiosegment
+nltk
+sounddevice
+soundfile
